@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,c"/>
 
 ### DB
-<img src="https://skillicons.dev/icons?i=sql,sqlite,mysql,postgresql,tutoriald"/>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,tutoriald"/>
 
 
 ### System
@@ -18,4 +18,4 @@
 
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=linux,jira,git,github,gitlab"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab"/>
