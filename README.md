@@ -18,4 +18,4 @@
 
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
