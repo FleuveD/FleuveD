@@ -1,16 +1,21 @@
-## Hi there 👋
+### Full-Stack Developer
 
-<!--
-**FleuveD/FleuveD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
 
-Here are some ideas to get you started:
+### Web
+<img src="https://skillicons.dev/icons?i=html,css,js,php,figma,bootstrap"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Programmation
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+
+### DB
+<img src="https://skillicons.dev/icons?i=sql,sqlite,mysql,postgresql,tutoriald"/>
+
+
+### System
+<img src="https://skillicons.dev/icons?i=linux,docker,bash"/>
+
+
+### Tools
+<img src="https://skillicons.dev/icons?i=linux,jira,git,github,gitlab"/>
